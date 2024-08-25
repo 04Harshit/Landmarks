@@ -154,6 +154,8 @@
 		EE6760062C7A6F0700643C57 /* LandmarkDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkDetail.swift; sourceTree = "<group>"; };
 		EE6CDC242C74C01000FDBCF9 /* FavoriteButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FavoriteButton.swift; sourceTree = "<group>"; };
 		EE73B28C2C7B0C550073EED3 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
+		EE73B28D2C7B28410073EED3 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		EE73B28E2C7B295F0073EED3 /* LICENSE */ = {isa = PBXFileReference; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		EE77D1D52C6CC235002FE711 /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
 		EE77D1D72C6CD127002FE711 /* landmarkData.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = landmarkData.json; sourceTree = "<group>"; };
 		EE77D1D92C6CD169002FE711 /* Landmark.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Landmark.swift; sourceTree = "<group>"; };
@@ -196,6 +198,8 @@
 		EE0ACAF02C6C95A60019CF4D = {
 			isa = PBXGroup;
 			children = (
+				EE73B28E2C7B295F0073EED3 /* LICENSE */,
+				EE73B28D2C7B28410073EED3 /* README.md */,
 				EE73B28C2C7B0C550073EED3 /* .gitignore */,
 				EE0ACAFB2C6C95A60019CF4D /* Landmarks */,
 				EE3E6E482C783CAA0098C969 /* MacLandmarks */,
